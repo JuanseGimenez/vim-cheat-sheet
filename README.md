@@ -1,4 +1,4 @@
-heat Sheet
+# Vim Cheat Sheet
 
 ## Global
 `:help keyword` - open help for keyword
