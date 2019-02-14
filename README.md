@@ -1,4 +1,4 @@
-heat Sheet
+# Vim cheat Sheet
 
 ## Global
 `:help keyword` - open help for keyword <br/>
