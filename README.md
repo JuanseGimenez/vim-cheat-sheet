@@ -1,7 +1,7 @@
 # Vim Cheat Sheet
 
 ## Global
-`:help keyword` - open help for keyword
+`:help keyword` - open help for keyword <br/>
 `:saveas file` - save file as
 `:close` - close current pane
 `K` - open man page for word under the cursor
